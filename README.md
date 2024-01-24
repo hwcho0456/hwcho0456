@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwcho123)](https://solved.ac/hwcho123)
 
 ![hwcho0456's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwcho0456&count_private=true)
-
-https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cVcrSWdXS1hMdEVrTFZGbTRQSWk2UT09
