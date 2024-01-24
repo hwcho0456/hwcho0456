@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 🌱 I’m currently learning Python(backend, AI)
+### Hi there 👋 I’m currently learning Python
 
 ![hwcho0456's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwcho0456&count_private=true)
 
