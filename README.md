@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...https://github.com/hwcho0456/hwcho0456/blob/main/README.md
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 I’m currently learning Python
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwcho123)](https://solved.ac/hwcho123)
 
 ![hwcho0456's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwcho0456&count_private=true)
